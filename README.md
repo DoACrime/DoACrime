@@ -1,2 +1,5 @@
-<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/ba21db51-cf18-44ad-ad98-29a3b53d88ed" />
-<div class="tenor-gif-embed" data-postid="916007457848149718"
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFtZjBhYm4yaHBvOXhqMGc2YmY0Njg2OGZuYnVkbmZrM2g3Y3hsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c1scNDOEusSBZTykij/giphy.gif" alt="countviction" width="700" align="center">
+
+
+
+
