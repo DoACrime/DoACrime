@@ -1,2 +1,1 @@
-[<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/97d61e8d-83df-4739-abdb-98beb10b6399" />](https://tenor.com/bfPue8FbSlu.gif)
-
+<div class="tenor-gif-embed" data-postid="916007457848149718" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/philippe-philippe9-gif-916007457848149718">Philippe Philippe9 GIF</a>from <a href="https://tenor.com/search/philippe-gifs">Philippe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
