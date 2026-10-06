@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZqMnFtMnczanVneG50ODk1Z28xYjk3YnYwd3Z1ZnVtZ3F4eHo5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dk2WyCV2eWV4G3uT17/giphy.gif" alt="countviction" width="440" align="center">
+<img src="https://github.com/user-attachments/assets/77e4c0d5-256f-467a-b080-d18574ad590b" alt="countviction" width="440" align="center">
 
 
 <p align="center">
